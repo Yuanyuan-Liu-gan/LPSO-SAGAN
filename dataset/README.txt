@@ -1,0 +1,1 @@
+Store your RGB image dataset in this folder
