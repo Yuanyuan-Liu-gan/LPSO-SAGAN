@@ -132,3 +132,4 @@ lgraphD = connectLayers(lgraphD, lastLayer, 'conv4');
 
 disc = dlnetwork(lgraphD);
 end
+
